@@ -34,10 +34,6 @@ public class CustomerQuery {
                     + " " + customer.getAddress().getDistrictName());
         }
 
-
-
-
-
     }
 
 
